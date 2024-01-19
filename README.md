@@ -140,8 +140,39 @@ While the project does not involve complex modeling, certain SQL queries involve
 
 ## Analyze & Visualization
 
-The analysis includes answering specific questions such as regional happiness variations, factors influencing happiness scores, and changes over time. Visualizations in Power BI, including charts and graphs, aid in presenting key findings.
+The analysis includes answering specific questions such as :
+- What is the distribution of the happiness scores for each country?
+- Which country has the highest happiness score?
+- What is the correlation between GDP per capita and happiness score?
+- What is the distribution of the factors that contribute to happiness?
+- Which region of the world has the highest average happiness score?
+
+In this project there are 6 pages :
+- Home ( Overview )
+- 2015
+- 2016
+- 2017
+- 2018
+- 2019
+
+![](WorldHappiness.png)
+
+You can interact with report here _[Novypro](https://www.novypro.com/project/world-happiness)_
 
 ## Conclusion & Recommendation
 
-The analysis reveals insights into global happiness trends. Conclusions drawn from the data are summarized, and recommendations for further exploration or actions are provided.
+The analysis reveals insights into global happiness trends. Some of these are :
+
+- Total number of countries participating in the survey: 782 (from 2015 to 2019)
+- There is a trend of increasing happiness scores over time.
+- Average Happiness Score: Average happiness score across all countries: 5.2K (from 2015 to 2019)
+- Factors Influencing Happiness Score:
+  - Health contributes approximately 54.6%
+  - Family contributes around 35.7%
+  - Freedom contributes about 9.5% to the happiness score (from 2015 to 2019)
+- Top Regions: Western Europe, Australia, and North America consistently hold top positions from 2015 to 2019.
+- The scatter plot shows a positive correlation between GDP per capita and happiness score, indicating that higher GDP per capita is associated with higher happiness scores.
+- Countries such as Switzerland, Denmark, Iceland, and Norway always occupy the top positions with Happiness Scores reaching more than 7k from 2015 to 2019.
+
+
+Conclusions drawn from the data are summarized, and recommendations for further exploration or actions are provided.
